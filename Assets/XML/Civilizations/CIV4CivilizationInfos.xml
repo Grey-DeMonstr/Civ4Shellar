@@ -4673,7 +4673,7 @@
 			<ShortDescription>Orthan</ShortDescription>
 			<Adjective>Orthanen</Adjective>
 			<Civilopedia>TXT_KEY_CIV_GREECE_PEDIA</Civilopedia>
-			<DefaultPlayerColor>PLAYERCOLOR_ORANGE</DefaultPlayerColor>
+			<DefaultPlayerColor>PLAYERCOLOR_PALE_ORANGE</DefaultPlayerColor>
 			<ArtDefineTag>ART_DEF_CIVILIZATION_GREECE</ArtDefineTag>
 			<ArtStyleType>ARTSTYLE_GRECO_ROMAN</ArtStyleType>
 			<UnitArtStyleType>UNIT_ARTSTYLE_GRECO_ROMAN</UnitArtStyleType>
