@@ -4678,7 +4678,7 @@
 			<ArtStyleType>ARTSTYLE_GRECO_ROMAN</ArtStyleType>
 			<UnitArtStyleType>UNIT_ARTSTYLE_GRECO_ROMAN</UnitArtStyleType>
 			<bPlayable>1</bPlayable>
-			<bAIPlayable>0</bAIPlayable>
+			<bAIPlayable>1</bAIPlayable>
 			<Cities>
                 <City>Daen-Riss</City>
                 <City>Kramati</City>
@@ -4699,200 +4699,8 @@
 				<City>Grimmond Castle</City>
 			</Cities>
 			<Buildings>
-				<Building>
-					<BuildingClassType>BUILDINGCLASS_SUPERMARKET</BuildingClassType>
-					<BuildingType>BUILDING_AMERICAN_MALL</BuildingType>
-				</Building>
-                <Building>
-					<BuildingClassType>BUILDINGCLASS_LIBRARY</BuildingClassType>
-					<BuildingType>BUILDING_ARABIAN_MADRASSA</BuildingType>
-				</Building>
-				<Building>
-					<BuildingClassType>BUILDINGCLASS_COLOSSEUM</BuildingClassType>
-					<BuildingType>BUILDING_MAYA_BALL_COURT</BuildingType>
-				</Building>
-				<Building>
-					<BuildingClassType>BUILDINGCLASS_THEATRE</BuildingClassType>
-					<BuildingType>BUILDING_BYZANTINE_HIPPODROME</BuildingType>
-				</Building>
-				<Building>
-					<BuildingClassType>BUILDINGCLASS_HARBOR</BuildingClassType>
-					<BuildingType>BUILDING_CARTHAGE_COTHON</BuildingType>
-				</Building>
-				<Building>
-					<BuildingClassType>BUILDINGCLASS_WALLS</BuildingClassType>
-					<BuildingType>BUILDING_CELTIC_DUN</BuildingType>
-				</Building>
-				<Building>
-					<BuildingClassType>BUILDINGCLASS_OBELISK</BuildingClassType>
-					<BuildingType>BUILDING_NATIVE_AMERICA_TOTEM</BuildingType>
-				</Building>
-				<Building>
-					<BuildingClassType>BUILDINGCLASS_BANK</BuildingClassType>
-					<BuildingType>BUILDING_ENGLISH_STOCK_EXCHANGE</BuildingType>
-				</Building>
-				<Building>
-					<BuildingClassType>BUILDINGCLASS_OBSERVATORY</BuildingClassType>
-					<BuildingType>BUILDING_FRENCH_SALON</BuildingType>
-				</Building>
-                <Building>
-					<BuildingClassType>BUILDINGCLASS_FACTORY</BuildingClassType>
-					<BuildingType>BUILDING_GERMAN_ASSEMBLY_PLANT</BuildingType>
-				</Building>
-				<Building>
-					<BuildingClassType>BUILDINGCLASS_COURTHOUSE</BuildingClassType>
-					<BuildingType>BUILDING_HOLY_ROMAN_RATHAUS</BuildingType>
-				</Building>
-				<Building>
-					<BuildingClassType>BUILDINGCLASS_GRANARY</BuildingClassType>
-					<BuildingType>BUILDING_INCAN_TERRACE</BuildingType>
-				</Building>
-				<Building>
-					<BuildingClassType>BUILDINGCLASS_JAIL</BuildingClassType>
-					<BuildingType>BUILDING_INDIAN_MAUSOLEUM</BuildingType>
-				</Building>
-				<Building>
-					<BuildingClassType>BUILDINGCLASS_COAL_PLANT</BuildingClassType>
-					<BuildingType>BUILDING_JAPANESE_SHALE_PLANT</BuildingType>
-				</Building>
-				<Building>
-					<BuildingClassType>BUILDINGCLASS_AQUEDUCT</BuildingClassType>
-					<BuildingType>BUILDING_KHMER_BARAY</BuildingType>
-				</Building>
-				<Building>
-					<BuildingClassType>BUILDINGCLASS_UNIVERSITY</BuildingClassType>
-					<BuildingType>BUILDING_KOREAN_SEOWON</BuildingType>
-				</Building>
-				<Building>
-					<BuildingClassType>BUILDINGCLASS_FORGE</BuildingClassType>
-					<BuildingType>BUILDING_MALI_MINT</BuildingType>
-				</Building>
-				<Building>
-					<BuildingClassType>BUILDINGCLASS_STABLE</BuildingClassType>
-					<BuildingType>BUILDING_MONGOL_GER</BuildingType>
-				</Building>
-				<Building>
-					<BuildingClassType>BUILDINGCLASS_LEVEE</BuildingClassType>
-					<BuildingType>BUILDING_NETHERLANDS_DIKE</BuildingType>
-				</Building>
-				<Building>
-					<BuildingClassType>BUILDINGCLASS_GROCER</BuildingClassType>
-					<BuildingType>BUILDING_PERSIAN_APOTHECARY</BuildingType>
-				</Building>
-				<Building>
-					<BuildingClassType>BUILDINGCLASS_CUSTOM_HOUSE</BuildingClassType>
-					<BuildingType>BUILDING_PORTUGAL_FEITORIA</BuildingType>
-				</Building>
-				<Building>
-					<BuildingClassType>BUILDINGCLASS_MARKET</BuildingClassType>
-					<BuildingType>BUILDING_ROMAN_FORUM</BuildingType>
-				</Building>
-				<Building>
-					<BuildingClassType>BUILDINGCLASS_LABORATORY</BuildingClassType>
-					<BuildingType>BUILDING_RUSSIAN_RESEARCH_INSTITUTE</BuildingType>
-				</Building>
-				<Building>
-					<BuildingClassType>BUILDINGCLASS_CASTLE</BuildingClassType>
-					<BuildingType>BUILDING_SPANISH_CITADEL</BuildingType>
-				</Building>
-				<Building>
-					<BuildingClassType>BUILDINGCLASS_LIGHTHOUSE</BuildingClassType>
-					<BuildingType>BUILDING_VIKING_TRADING_POST</BuildingType>
-				</Building>
-				<Building>
-					<BuildingClassType>BUILDINGCLASS_BARRACKS</BuildingClassType>
-					<BuildingType>BUILDING_ZULU_IKHANDA</BuildingType>
-				</Building>
 			</Buildings>
 			<Units>
-				<Unit>
-					<UnitClassType>UNITCLASS_MARINE</UnitClassType>
-					<UnitType>UNIT_AMERICAN_NAVY_SEAL</UnitType>
-				</Unit>
-				<Unit>
-					<UnitClassType>UNITCLASS_AXEMAN</UnitClassType>
-					<UnitType>UNIT_NATIVE_AMERICA_DOG_SOLDIER</UnitType>
-				</Unit>
-				<Unit>
-					<UnitClassType>UNITCLASS_ARCHER</UnitClassType>
-					<UnitType>UNIT_MALI_SKIRMISHER</UnitType>
-				</Unit>
-				<Unit>
-					<UnitClassType>UNITCLASS_KNIGHT</UnitClassType>
-					<UnitType>UNIT_BYZANTINE_CATAPHRACT</UnitType>
-				</Unit>
-				<Unit>
-					<UnitClassType>UNITCLASS_HORSE_ARCHER</UnitClassType>
-					<UnitType>UNIT_MONGOL_KESHIK</UnitType>
-				</Unit>
-				<Unit>
-					<UnitClassType>UNITCLASS_CROSSBOWMAN</UnitClassType>
-					<UnitType>UNIT_CHINA_CHOKONU</UnitType>
-				</Unit>
-				<Unit>
-					<UnitClassType>UNITCLASS_CHARIOT</UnitClassType>
-					<UnitType>UNIT_PERSIA_IMMORTAL</UnitType>
-				</Unit>
-				<Unit>
-					<UnitClassType>UNITCLASS_RIFLEMAN</UnitClassType>
-					<UnitType>UNIT_ENGLISH_REDCOAT</UnitType>
-				</Unit>
-				<Unit>
-					<UnitClassType>UNITCLASS_MUSKETMAN</UnitClassType>
-					<UnitType>UNIT_ETHIOPIAN_OROMO_WARRIOR</UnitType>
-				</Unit>
-				<Unit>
-					<UnitClassType>UNITCLASS_TANK</UnitClassType>
-					<UnitType>UNIT_GERMAN_PANZER</UnitType>
-				</Unit>
-				<Unit>
-					<UnitClassType>UNITCLASS_PIKEMAN</UnitClassType>
-					<UnitType>UNIT_HOLY_ROMAN_LANDSKNECHT</UnitType>
-				</Unit>
-				<Unit>
-					<UnitClassType>UNITCLASS_WARRIOR</UnitClassType>
-					<UnitType>UNIT_INCAN_QUECHUA</UnitType>
-				</Unit>
-				<Unit>
-					<UnitClassType>UNITCLASS_WORKER</UnitClassType>
-					<UnitType>UNIT_INDIAN_FAST_WORKER</UnitType>
-				</Unit>
-				<Unit>
-					<UnitClassType>UNITCLASS_MACEMAN</UnitClassType>
-					<UnitType>UNIT_JAPAN_SAMURAI</UnitType>
-				</Unit>
-				<Unit>
-					<UnitClassType>UNITCLASS_WAR_ELEPHANT</UnitClassType>
-					<UnitType>UNIT_KHMER_BALLISTA_ELEPHANT</UnitType>
-				</Unit>
-				<Unit>
-					<UnitClassType>UNITCLASS_CATAPULT</UnitClassType>
-					<UnitType>UNIT_KOREAN_HWACHA</UnitType>
-				</Unit>
-				<Unit>
-					<UnitClassType>UNITCLASS_GALLEON</UnitClassType>
-					<UnitType>UNIT_NETHERLANDS_OOSTINDIEVAARDER</UnitType>
-				</Unit>
-				<Unit>
-					<UnitClassType>UNITCLASS_CARAVEL</UnitClassType>
-					<UnitType>UNIT_PORTUGAL_CARRACK</UnitType>
-				</Unit>
-				<Unit>
-					<UnitClassType>UNITCLASS_SWORDSMAN</UnitClassType>
-					<UnitType>UNIT_ROME_PRAETORIAN</UnitType>
-				</Unit>
-				<Unit>
-					<UnitClassType>UNITCLASS_CAVALRY</UnitClassType>
-					<UnitType>UNIT_RUSSIA_COSSACK</UnitType>
-				</Unit>
-				<Unit>
-					<UnitClassType>UNITCLASS_CUIRASSIER</UnitClassType>
-					<UnitType>UNIT_SPANISH_CONQUISTADOR</UnitType>
-				</Unit>
-				<Unit>
-					<UnitClassType>UNITCLASS_SPEARMAN</UnitClassType>
-					<UnitType>UNIT_ZULU_IMPI</UnitType>
-				</Unit>
 			</Units>
 			<FreeUnitClasses>
 				<FreeUnitClass>
@@ -4908,11 +4716,7 @@
 			</FreeBuildingClasses>
 			<FreeTechs>
 				<FreeTech>
-					<TechType>TECH_FISHING</TechType>
-					<bFreeTech>1</bFreeTech>
-				</FreeTech>
-				<FreeTech>
-					<TechType>TECH_MINING</TechType>
+					<TechType>TECH_ANIMAL_HUSBANDRY</TechType>
 					<bFreeTech>1</bFreeTech>
 				</FreeTech>
 			</FreeTechs>
@@ -4927,6 +4731,10 @@
 			<Leaders>
                 <Leader>
                     <LeaderName>LEADER_SHELLAR</LeaderName>
+                    <bLeaderAvailability>1</bLeaderAvailability>
+                </Leader>
+                <Leader>
+                    <LeaderName>LEADER_KENDAR</LeaderName>
                     <bLeaderAvailability>1</bLeaderAvailability>
                 </Leader>
 			</Leaders>
