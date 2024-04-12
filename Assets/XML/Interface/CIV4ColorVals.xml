@@ -895,5 +895,21 @@
 			<fBlue>0.392</fBlue>
 			<fAlpha>1.00</fAlpha>
 		</ColorVal>
+
+        <ColorVal>
+			<Type>COLOR_PLAYER_ORTHAN</Type>
+			<fRed>0.49</fRed>
+			<fGreen>0.69</fGreen>
+			<fBlue>0.99</fBlue>
+			<fAlpha>1.00</fAlpha>
+		</ColorVal>
+
+        <ColorVal>
+			<Type>COLOR_PLAYER_LONDRA</Type>
+			<fRed>0.87</fRed>
+			<fGreen>0.27</fGreen>
+			<fBlue>0.85</fBlue>
+			<fAlpha>1.00</fAlpha>
+		</ColorVal>
 	</ColorVals>
 </Civ4ColorVals>
