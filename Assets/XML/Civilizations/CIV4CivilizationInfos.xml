@@ -4702,8 +4702,16 @@
                 <City>Orthan 20</City>
 			</Cities>
 			<Buildings>
+                <Building>
+					<BuildingClassType>BUILDINGCLASS_LIBRARY</BuildingClassType>
+					<BuildingType>BUILDING_ORTHAN_ADAPTATION_CENTER</BuildingType>
+				</Building>
 			</Buildings>
 			<Units>
+				<Unit>
+					<UnitClassType>UNITCLASS_MUSKETMAN</UnitClassType>
+					<UnitType>UNIT_ORTHAN_BATTLE_MAGE</UnitType>
+				</Unit>
 			</Units>
 			<FreeUnitClasses>
 				<FreeUnitClass>
@@ -4943,8 +4951,16 @@
                 <City>Londra 20</City>
 			</Cities>
 			<Buildings>
+                <Building>
+					<BuildingClassType>BUILDINGCLASS_HARBOR</BuildingClassType>
+					<BuildingType>BUILDING_LONDRA_SPY_HARBOR</BuildingType>
+				</Building>
 			</Buildings>
 			<Units>
+                <Unit>
+					<UnitClassType>UNITCLASS_LONGBOWMAN</UnitClassType>
+					<UnitType>UNIT_LONDRA_SNIPER</UnitType>
+				</Unit>
 			</Units>
 			<FreeUnitClasses>
 				<FreeUnitClass>
