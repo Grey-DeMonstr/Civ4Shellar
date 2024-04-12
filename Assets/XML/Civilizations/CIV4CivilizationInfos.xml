@@ -4669,16 +4669,16 @@
 
         <CivilizationInfo>
 			<Type>CIVILIZATION_ORTHAN</Type>
-			<Description>Civilization of Orhtan</Description>
+			<Description>Orhtan Empire</Description>
 			<ShortDescription>Orthan</ShortDescription>
 			<Adjective>Orthanen</Adjective>
 			<Civilopedia>TXT_KEY_CIV_GREECE_PEDIA</Civilopedia>
-			<DefaultPlayerColor>PLAYERCOLOR_PALE_ORANGE</DefaultPlayerColor>
+			<DefaultPlayerColor>PLAYERCOLOR_ORTHAN</DefaultPlayerColor>
 			<ArtDefineTag>ART_DEF_CIVILIZATION_GREECE</ArtDefineTag>
 			<ArtStyleType>ARTSTYLE_GRECO_ROMAN</ArtStyleType>
 			<UnitArtStyleType>UNIT_ARTSTYLE_GRECO_ROMAN</UnitArtStyleType>
 			<bPlayable>1</bPlayable>
-			<bAIPlayable>1</bAIPlayable>
+			<bAIPlayable>0</bAIPlayable>
 			<Cities>
                 <City>Daen-Riss</City>
                 <City>Kramati</City>
@@ -4697,6 +4697,9 @@
 				<City>Drakmar Castle</City>
 				<City>Zerdoc Castle</City>
 				<City>Grimmond Castle</City>
+                <City>Orthan 18</City>
+                <City>Orthan 19</City>
+                <City>Orthan 20</City>
 			</Cities>
 			<Buildings>
 			</Buildings>
@@ -4735,6 +4738,417 @@
                 </Leader>
                 <Leader>
                     <LeaderName>LEADER_KENDAR</LeaderName>
+                    <bLeaderAvailability>1</bLeaderAvailability>
+                </Leader>
+			</Leaders>
+			<DerivativeCiv>CIVILIZATION_BYZANTIUM</DerivativeCiv>
+			<CivilizationSelectionSound>AS3D_GREECE_SELECT</CivilizationSelectionSound>
+			<CivilizationActionSound>AS3D_GREECE_ORDER</CivilizationActionSound>
+		</CivilizationInfo>
+
+        <CivilizationInfo>
+			<Type>CIVILIZATION_GOLDIANA</Type>
+			<Description>Goldiana Republic</Description>
+			<ShortDescription>Goldiana</ShortDescription>
+			<Adjective>Goldianed</Adjective>
+			<Civilopedia>TXT_KEY_CIV_GREECE_PEDIA</Civilopedia>
+			<DefaultPlayerColor>PLAYERCOLOR_GOLDIANA</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_GREECE</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_GRECO_ROMAN</ArtStyleType>
+			<UnitArtStyleType>UNIT_ARTSTYLE_GRECO_ROMAN</UnitArtStyleType>
+			<bPlayable>1</bPlayable>
+			<bAIPlayable>0</bAIPlayable>
+			<Cities>
+                <City>Goldiana 1</City>
+                <City>Goldiana 2</City>
+                <City>Goldiana 3</City>
+                <City>Goldiana 4</City>
+                <City>Goldiana 5</City>
+                <City>Goldiana 6</City>
+                <City>Goldiana 7</City>
+                <City>Goldiana 8</City>
+                <City>Goldiana 9</City>
+                <City>Goldiana 10</City>
+                <City>Goldiana 11</City>
+				<City>Goldiana 12</City>
+				<City>Goldiana 13</City>
+				<City>Goldiana 14</City>
+				<City>Goldiana 15</City>
+				<City>Goldiana 16</City>
+				<City>Goldiana 17</City>
+                <City>Goldiana 18</City>
+                <City>Goldiana 19</City>
+                <City>Goldiana 20</City>
+			</Cities>
+			<Buildings>
+			</Buildings>
+			<Units>
+			</Units>
+			<FreeUnitClasses>
+				<FreeUnitClass>
+					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+					<iFreeUnits>1</iFreeUnits>
+				</FreeUnitClass>
+			</FreeUnitClasses>
+			<FreeBuildingClasses>
+				<FreeBuildingClass>
+					<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+					<bFreeBuildingClass>1</bFreeBuildingClass>
+				</FreeBuildingClass>
+			</FreeBuildingClasses>
+			<FreeTechs>
+				<FreeTech>
+					<TechType>TECH_WHEEL</TechType>
+					<bFreeTech>1</bFreeTech>
+				</FreeTech>
+                <FreeTech>
+					<TechType>TECH_MINING</TechType>
+					<bFreeTech>1</bFreeTech>
+				</FreeTech>
+			</FreeTechs>
+			<DisableTechs/>
+			<InitialCivics>
+				<CivicType>CIVIC_DESPOTISM</CivicType>
+				<CivicType>CIVIC_BARBARISM</CivicType>
+				<CivicType>CIVIC_TRIBALISM</CivicType>
+				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
+				<CivicType>CIVIC_PAGANISM</CivicType>
+			</InitialCivics>
+			<Leaders>
+                <Leader>
+                    <LeaderName>LEADER_VEZER</LeaderName>
+                    <bLeaderAvailability>1</bLeaderAvailability>
+                </Leader>
+                <Leader>
+                    <LeaderName>LEADER_PURISH</LeaderName>
+                    <bLeaderAvailability>1</bLeaderAvailability>
+                </Leader>
+			</Leaders>
+			<DerivativeCiv>CIVILIZATION_BYZANTIUM</DerivativeCiv>
+			<CivilizationSelectionSound>AS3D_GREECE_SELECT</CivilizationSelectionSound>
+			<CivilizationActionSound>AS3D_GREECE_ORDER</CivilizationActionSound>
+		</CivilizationInfo>
+
+        <CivilizationInfo>
+			<Type>CIVILIZATION_MISTRALIA</Type>
+			<Description>Mistralian Kingdom</Description>
+			<ShortDescription>Mistralia</ShortDescription>
+			<Adjective>Mistralian</Adjective>
+			<Civilopedia>TXT_KEY_CIV_GREECE_PEDIA</Civilopedia>
+			<DefaultPlayerColor>PLAYERCOLOR_MISTRALIA</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_GREECE</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_GRECO_ROMAN</ArtStyleType>
+			<UnitArtStyleType>UNIT_ARTSTYLE_GRECO_ROMAN</UnitArtStyleType>
+			<bPlayable>1</bPlayable>
+			<bAIPlayable>0</bAIPlayable>
+			<Cities>
+                <City>Mistralia 1</City>
+                <City>Mistralia 2</City>
+                <City>Mistralia 3</City>
+                <City>Mistralia 4</City>
+                <City>Mistralia 5</City>
+                <City>Mistralia 6</City>
+                <City>Mistralia 7</City>
+                <City>Mistralia 8</City>
+                <City>Mistralia 9</City>
+                <City>Mistralia 10</City>
+                <City>Mistralia 11</City>
+				<City>Mistralia 12</City>
+				<City>Mistralia 13</City>
+				<City>Mistralia 14</City>
+				<City>Mistralia 15</City>
+				<City>Mistralia 16</City>
+				<City>Mistralia 17</City>
+                <City>Mistralia 18</City>
+                <City>Mistralia 19</City>
+                <City>Mistralia 20</City>
+			</Cities>
+			<Buildings>
+			</Buildings>
+			<Units>
+			</Units>
+			<FreeUnitClasses>
+				<FreeUnitClass>
+					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+					<iFreeUnits>1</iFreeUnits>
+				</FreeUnitClass>
+			</FreeUnitClasses>
+			<FreeBuildingClasses>
+				<FreeBuildingClass>
+					<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+					<bFreeBuildingClass>1</bFreeBuildingClass>
+				</FreeBuildingClass>
+			</FreeBuildingClasses>
+			<FreeTechs>
+				<FreeTech>
+					<TechType>TECH_AGRICULTURE</TechType>
+					<bFreeTech>1</bFreeTech>
+				</FreeTech>
+                <FreeTech>
+					<TechType>TECH_MYSTICISM</TechType>
+					<bFreeTech>1</bFreeTech>
+				</FreeTech>
+			</FreeTechs>
+			<DisableTechs/>
+			<InitialCivics>
+				<CivicType>CIVIC_DESPOTISM</CivicType>
+				<CivicType>CIVIC_BARBARISM</CivicType>
+				<CivicType>CIVIC_TRIBALISM</CivicType>
+				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
+				<CivicType>CIVIC_PAGANISM</CivicType>
+			</InitialCivics>
+			<Leaders>
+                <Leader>
+                    <LeaderName>LEADER_ORLANDO</LeaderName>
+                    <bLeaderAvailability>1</bLeaderAvailability>
+                </Leader>
+			</Leaders>
+			<DerivativeCiv>CIVILIZATION_BYZANTIUM</DerivativeCiv>
+			<CivilizationSelectionSound>AS3D_GREECE_SELECT</CivilizationSelectionSound>
+			<CivilizationActionSound>AS3D_GREECE_ORDER</CivilizationActionSound>
+		</CivilizationInfo>
+
+        <CivilizationInfo>
+			<Type>CIVILIZATION_LONDRA</Type>
+			<Description>Londra Empire</Description>
+			<ShortDescription>Londra</ShortDescription>
+			<Adjective>Londrinen</Adjective>
+			<Civilopedia>TXT_KEY_CIV_GREECE_PEDIA</Civilopedia>
+			<DefaultPlayerColor>PLAYERCOLOR_LONDRA</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_GREECE</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_GRECO_ROMAN</ArtStyleType>
+			<UnitArtStyleType>UNIT_ARTSTYLE_GRECO_ROMAN</UnitArtStyleType>
+			<bPlayable>1</bPlayable>
+			<bAIPlayable>0</bAIPlayable>
+			<Cities>
+                <City>Londra 1</City>
+                <City>Londra 2</City>
+                <City>Londra 3</City>
+                <City>Londra 4</City>
+                <City>Londra 5</City>
+                <City>Londra 6</City>
+                <City>Londra 7</City>
+                <City>Londra 8</City>
+                <City>Londra 9</City>
+                <City>Londra 10</City>
+                <City>Londra 11</City>
+				<City>Londra 12</City>
+				<City>Londra 13</City>
+				<City>Londra 14</City>
+				<City>Londra 15</City>
+				<City>Londra 16</City>
+				<City>Londra 17</City>
+                <City>Londra 18</City>
+                <City>Londra 19</City>
+                <City>Londra 20</City>
+			</Cities>
+			<Buildings>
+			</Buildings>
+			<Units>
+			</Units>
+			<FreeUnitClasses>
+				<FreeUnitClass>
+					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+					<iFreeUnits>1</iFreeUnits>
+				</FreeUnitClass>
+			</FreeUnitClasses>
+			<FreeBuildingClasses>
+				<FreeBuildingClass>
+					<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+					<bFreeBuildingClass>1</bFreeBuildingClass>
+				</FreeBuildingClass>
+			</FreeBuildingClasses>
+			<FreeTechs>
+				<FreeTech>
+					<TechType>TECH_FISHING</TechType>
+					<bFreeTech>1</bFreeTech>
+				</FreeTech>
+                <FreeTech>
+					<TechType>TECH_WHEEL</TechType>
+					<bFreeTech>1</bFreeTech>
+				</FreeTech>
+			</FreeTechs>
+			<DisableTechs/>
+			<InitialCivics>
+				<CivicType>CIVIC_DESPOTISM</CivicType>
+				<CivicType>CIVIC_BARBARISM</CivicType>
+				<CivicType>CIVIC_TRIBALISM</CivicType>
+				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
+				<CivicType>CIVIC_PAGANISM</CivicType>
+			</InitialCivics>
+			<Leaders>
+                <Leader>
+                    <LeaderName>LEADER_ELVIS</LeaderName>
+                    <bLeaderAvailability>1</bLeaderAvailability>
+                </Leader>
+                <Leader>
+                    <LeaderName>LEADER_JESSIKA</LeaderName>
+                    <bLeaderAvailability>1</bLeaderAvailability>
+                </Leader>
+			</Leaders>
+			<DerivativeCiv>CIVILIZATION_BYZANTIUM</DerivativeCiv>
+			<CivilizationSelectionSound>AS3D_GREECE_SELECT</CivilizationSelectionSound>
+			<CivilizationActionSound>AS3D_GREECE_ORDER</CivilizationActionSound>
+		</CivilizationInfo>
+
+        <CivilizationInfo>
+			<Type>CIVILIZATION_POMORYE</Type>
+			<Description>Pomorye Kingdom</Description>
+			<ShortDescription>Pomorye</ShortDescription>
+			<Adjective>Pomoryen</Adjective>
+			<Civilopedia>TXT_KEY_CIV_GREECE_PEDIA</Civilopedia>
+			<DefaultPlayerColor>PLAYERCOLOR_POMORYE</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_GREECE</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_GRECO_ROMAN</ArtStyleType>
+			<UnitArtStyleType>UNIT_ARTSTYLE_GRECO_ROMAN</UnitArtStyleType>
+			<bPlayable>1</bPlayable>
+			<bAIPlayable>0</bAIPlayable>
+			<Cities>
+                <City>Pomorye 1</City>
+                <City>Pomorye 2</City>
+                <City>Pomorye 3</City>
+                <City>Pomorye 4</City>
+                <City>Pomorye 5</City>
+                <City>Pomorye 6</City>
+                <City>Pomorye 7</City>
+                <City>Pomorye 8</City>
+                <City>Pomorye 9</City>
+                <City>Pomorye 10</City>
+                <City>Pomorye 11</City>
+				<City>Pomorye 12</City>
+				<City>Pomorye 13</City>
+				<City>Pomorye 14</City>
+				<City>Pomorye 15</City>
+				<City>Pomorye 16</City>
+				<City>Pomorye 17</City>
+                <City>Pomorye 18</City>
+                <City>Pomorye 19</City>
+                <City>Pomorye 20</City>
+			</Cities>
+			<Buildings>
+			</Buildings>
+			<Units>
+			</Units>
+			<FreeUnitClasses>
+				<FreeUnitClass>
+					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+					<iFreeUnits>1</iFreeUnits>
+				</FreeUnitClass>
+			</FreeUnitClasses>
+			<FreeBuildingClasses>
+				<FreeBuildingClass>
+					<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+					<bFreeBuildingClass>1</bFreeBuildingClass>
+				</FreeBuildingClass>
+			</FreeBuildingClasses>
+			<FreeTechs>
+				<FreeTech>
+					<TechType>TECH_HUNTING</TechType>
+					<bFreeTech>1</bFreeTech>
+				</FreeTech>
+                <FreeTech>
+					<TechType>TECH_ARCHERY</TechType>
+					<bFreeTech>1</bFreeTech>
+				</FreeTech>
+			</FreeTechs>
+			<DisableTechs/>
+			<InitialCivics>
+				<CivicType>CIVIC_DESPOTISM</CivicType>
+				<CivicType>CIVIC_BARBARISM</CivicType>
+				<CivicType>CIVIC_TRIBALISM</CivicType>
+				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
+				<CivicType>CIVIC_PAGANISM</CivicType>
+			</InitialCivics>
+			<Leaders>
+                <Leader>
+                    <LeaderName>LEADER_ZINOVII</LeaderName>
+                    <bLeaderAvailability>1</bLeaderAvailability>
+                </Leader>
+                <Leader>
+                    <LeaderName>LEADER_PAFNUTII</LeaderName>
+                    <bLeaderAvailability>1</bLeaderAvailability>
+                </Leader>
+			</Leaders>
+			<DerivativeCiv>CIVILIZATION_BYZANTIUM</DerivativeCiv>
+			<CivilizationSelectionSound>AS3D_GREECE_SELECT</CivilizationSelectionSound>
+			<CivilizationActionSound>AS3D_GREECE_ORDER</CivilizationActionSound>
+		</CivilizationInfo>
+
+        <CivilizationInfo>
+			<Type>CIVILIZATION_EGINA</Type>
+			<Description>Egina Empire</Description>
+			<ShortDescription>Egina</ShortDescription>
+			<Adjective>Eginen</Adjective>
+			<Civilopedia>TXT_KEY_CIV_GREECE_PEDIA</Civilopedia>
+			<DefaultPlayerColor>PLAYERCOLOR_EGINA</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_GREECE</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_GRECO_ROMAN</ArtStyleType>
+			<UnitArtStyleType>UNIT_ARTSTYLE_GRECO_ROMAN</UnitArtStyleType>
+			<bPlayable>1</bPlayable>
+			<bAIPlayable>0</bAIPlayable>
+			<Cities>
+                <City>Egina 1</City>
+                <City>Egina 2</City>
+                <City>Egina 3</City>
+                <City>Egina 4</City>
+                <City>Egina 5</City>
+                <City>Egina 6</City>
+                <City>Egina 7</City>
+                <City>Egina 8</City>
+                <City>Egina 9</City>
+                <City>Egina 10</City>
+                <City>Egina 11</City>
+				<City>Egina 12</City>
+				<City>Egina 13</City>
+				<City>Egina 14</City>
+				<City>Egina 15</City>
+				<City>Egina 16</City>
+				<City>Egina 17</City>
+                <City>Egina 18</City>
+                <City>Egina 19</City>
+                <City>Egina 20</City>
+			</Cities>
+			<Buildings>
+			</Buildings>
+			<Units>
+			</Units>
+			<FreeUnitClasses>
+				<FreeUnitClass>
+					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+					<iFreeUnits>1</iFreeUnits>
+				</FreeUnitClass>
+			</FreeUnitClasses>
+			<FreeBuildingClasses>
+				<FreeBuildingClass>
+					<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+					<bFreeBuildingClass>1</bFreeBuildingClass>
+				</FreeBuildingClass>
+			</FreeBuildingClasses>
+			<FreeTechs>
+				<FreeTech>
+					<TechType>TECH_MINING</TechType>
+					<bFreeTech>1</bFreeTech>
+				</FreeTech>
+                <FreeTech>
+					<TechType>TECH_FISHING</TechType>
+					<bFreeTech>1</bFreeTech>
+				</FreeTech>
+			</FreeTechs>
+			<DisableTechs/>
+			<InitialCivics>
+				<CivicType>CIVIC_DESPOTISM</CivicType>
+				<CivicType>CIVIC_BARBARISM</CivicType>
+				<CivicType>CIVIC_SLAVERY</CivicType>
+				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
+				<CivicType>CIVIC_PAGANISM</CivicType>
+			</InitialCivics>
+			<Leaders>
+                <Leader>
+                    <LeaderName>LEADER_ALEKSANDER</LeaderName>
+                    <bLeaderAvailability>1</bLeaderAvailability>
+                </Leader>
+                <Leader>
+                    <LeaderName>LEADER_ANDROMAKHA</LeaderName>
                     <bLeaderAvailability>1</bLeaderAvailability>
                 </Leader>
 			</Leaders>
