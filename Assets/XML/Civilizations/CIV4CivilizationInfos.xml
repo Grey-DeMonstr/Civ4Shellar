@@ -4806,7 +4806,7 @@
 			</FreeBuildingClasses>
 			<FreeTechs>
 				<FreeTech>
-					<TechType>TECH_WHEEL</TechType>
+					<TechType>TECH_THE_WHEEL</TechType>
 					<bFreeTech>1</bFreeTech>
 				</FreeTech>
                 <FreeTech>
@@ -4980,7 +4980,7 @@
 					<bFreeTech>1</bFreeTech>
 				</FreeTech>
                 <FreeTech>
-					<TechType>TECH_WHEEL</TechType>
+					<TechType>TECH_THE_WHEEL</TechType>
 					<bFreeTech>1</bFreeTech>
 				</FreeTech>
 			</FreeTechs>
