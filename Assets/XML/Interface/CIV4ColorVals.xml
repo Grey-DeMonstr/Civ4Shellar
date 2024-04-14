@@ -898,9 +898,9 @@
 
         <ColorVal>
 			<Type>COLOR_PLAYER_ORTHAN</Type>
-			<fRed>0.49</fRed>
+			<fRed>0.2</fRed>
 			<fGreen>0.69</fGreen>
-			<fBlue>0.99</fBlue>
+			<fBlue>1.00</fBlue>
 			<fAlpha>1.00</fAlpha>
 		</ColorVal>
 
