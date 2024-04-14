@@ -45,32 +45,6 @@
 			<FreePromotionUnitCombats/>
 		</TraitInfo>
         <TraitInfo>
-			<Type>TRAIT_MINER</Type>
-			<Description>Hard Miner</Description>
-			<ShortDescription>Min</ShortDescription>
-			<iHealth>0</iHealth>
-			<iHappiness>0</iHappiness>
-			<iMaxAnarchy>-1</iMaxAnarchy>
-			<iUpkeepModifier>0</iUpkeepModifier>
-			<iLevelExperienceModifier>0</iLevelExperienceModifier>
-			<iGreatPeopleRateModifier>0</iGreatPeopleRateModifier>
-			<iGreatGeneralRateModifier>0</iGreatGeneralRateModifier>
-			<iDomesticGreatGeneralRateModifier>0</iDomesticGreatGeneralRateModifier>
-			<iMaxGlobalBuildingProductionModifier>0</iMaxGlobalBuildingProductionModifier>
-			<iMaxTeamBuildingProductionModifier>0</iMaxTeamBuildingProductionModifier>
-			<iMaxPlayerBuildingProductionModifier>0</iMaxPlayerBuildingProductionModifier>
-			<ExtraYieldThresholds>
-				<iExtraYieldThreshold>0</iExtraYieldThreshold> <!-- 1 Extra Food on plots with -->
-				<iExtraYieldThreshold>2</iExtraYieldThreshold> <!-- 1 Extra Prod on plots with -->
-				<iExtraYieldThreshold>0</iExtraYieldThreshold> <!-- 1 Extra Gold on plots with -->
-			</ExtraYieldThresholds>
-			<TradeYieldModifiers/>
-			<CommerceChanges/>
-			<CommerceModifiers/>
-			<FreePromotions/>
-			<FreePromotionUnitCombats/>
-		</TraitInfo>
-        <TraitInfo>
 			<Type>TRAIT_AGRONOMICAL</Type>
 			<Description>Agronomical</Description>
 			<ShortDescription>Agm</ShortDescription>
@@ -116,11 +90,7 @@
 				<iExtraYieldThreshold>3</iExtraYieldThreshold> <!-- 1 Extra Prod on plots with -->
 				<iExtraYieldThreshold>0</iExtraYieldThreshold> <!-- 1 Extra Gold on plots with -->
 			</ExtraYieldThresholds>
-            <TradeYieldModifiers>
-                <iYield>0</iYield> <!-- Food from trade routes -->
-				<iYield>100</iYield> <!-- Prod from trade routes -->
-				<iYield>0</iYield> <!-- Gold from trade routes -->
-            </TradeYieldModifiers>
+            <TradeYieldModifiers/>
 			<CommerceChanges/>
 			<CommerceModifiers/>
 			<FreePromotions/>
@@ -143,9 +113,9 @@
 			<iMaxPlayerBuildingProductionModifier>0</iMaxPlayerBuildingProductionModifier>
 			<ExtraYieldThresholds/>
             <TradeYieldModifiers>
-                <iYield>100</iYield> <!-- Food from trade routes -->
-				<iYield>100</iYield> <!-- Prod from trade routes -->
-				<iYield>100</iYield> <!-- Gold from trade routes -->
+                <iYield>75</iYield> <!-- Food from trade routes -->
+				<iYield>75</iYield> <!-- Prod from trade routes -->
+				<iYield>0</iYield> <!-- Gold from trade routes -->
             </TradeYieldModifiers>
 			<CommerceChanges/>
 			<CommerceModifiers/>

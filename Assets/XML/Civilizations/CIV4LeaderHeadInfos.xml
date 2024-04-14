@@ -3896,7 +3896,7 @@
             <FavoriteReligion>NONE</FavoriteReligion>
             <Traits>
                 <Trait>
-                    <TraitType>TRAIT_MINER</TraitType>
+                    <TraitType>TRAIT_PRODUCTIVE</TraitType>
                     <bTrait>1</bTrait>
                 </Trait>
                 <Trait>
@@ -4440,7 +4440,7 @@
             <FavoriteReligion>NONE</FavoriteReligion>
             <Traits>
                 <Trait>
-                    <TraitType>TRAIT_MINER</TraitType>
+                    <TraitType>TRAIT_PRODUCTIVE</TraitType>
                     <bTrait>1</bTrait>
                 </Trait>
                 <Trait>
