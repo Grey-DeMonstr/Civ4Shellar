@@ -5173,6 +5173,96 @@
 			<CivilizationActionSound>AS3D_GREECE_ORDER</CivilizationActionSound>
 		</CivilizationInfo>
 
+        <CivilizationInfo>
+			<Type>CIVILIZATION_GALLANT</Type>
+			<Description>Gallant Kingdom</Description>
+			<ShortDescription>Gallant</ShortDescription>
+			<Adjective>Gallantian</Adjective>
+			<Civilopedia>TXT_KEY_CIV_GREECE_PEDIA</Civilopedia>
+			<DefaultPlayerColor>PLAYERCOLOR_GALLANT</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_GREECE</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType>
+			<UnitArtStyleType>UNIT_ARTSTYLE_EUROPEAN</UnitArtStyleType>
+			<bPlayable>1</bPlayable>
+			<bAIPlayable>0</bAIPlayable>
+			<Cities>
+                <City>Lutecia</City>
+                <City>Truavill</City>
+                <City>Saint-Flour</City>
+                <City>Fugere</City>
+                <City>Vichy</City>
+                <City>Gannat</City>
+                <City>Yzeure</City>
+                <City>Commentry</City>
+                <City>Cusset</City>
+                <City>Lapalisse</City>
+                <City>Montlucon</City>
+				<City>Moulins</City>
+				<City>Souvigny</City>
+				<City>Saint-Pourcain-sur-Sioule</City>
+				<City>Huriel</City>
+				<City>Bourbon-l'Archambault</City>
+				<City>Bellerive-sur-Allier</City>
+                <City>Le Montet</City>
+                <City>Montmarault</City>
+                <City>Herisson</City>
+			</Cities>
+			<Buildings/>
+			<Units>
+                <Unit>
+					<UnitClassType>UNITCLASS_SPY</UnitClassType>
+					<UnitType>UNIT_GALLANT_WHORE</UnitType>
+				</Unit>
+			</Units>
+			<FreeUnitClasses>
+				<FreeUnitClass>
+					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+					<iFreeUnits>1</iFreeUnits>
+				</FreeUnitClass>
+	            <FreeUnitClass>
+					<UnitClassType>UNITCLASS_SPY</UnitClassType>
+					<iFreeUnits>1</iFreeUnits>
+				</FreeUnitClass>
+			</FreeUnitClasses>
+			<FreeBuildingClasses>
+				<FreeBuildingClass>
+					<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+					<bFreeBuildingClass>1</bFreeBuildingClass>
+				</FreeBuildingClass>
+			</FreeBuildingClasses>
+			<FreeTechs>
+				<FreeTech>
+					<TechType>TECH_AGRICULTURE</TechType>
+					<bFreeTech>1</bFreeTech>
+				</FreeTech>
+                <FreeTech>
+					<TechType>TECH_THE_WHEEL</TechType>
+					<bFreeTech>1</bFreeTech>
+				</FreeTech>
+			</FreeTechs>
+			<DisableTechs/>
+			<InitialCivics>
+				<CivicType>CIVIC_DESPOTISM</CivicType>
+				<CivicType>CIVIC_BARBARISM</CivicType>
+				<CivicType>CIVIC_TRIBALISM</CivicType>
+				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
+				<CivicType>CIVIC_PAGANISM</CivicType>
+			</InitialCivics>
+			<Leaders>
+                <Leader>
+                    <LeaderName>LEADER_AGNESSA</LeaderName>
+                    <bLeaderAvailability>1</bLeaderAvailability>
+                </Leader>
+                <Leader>
+                    <LeaderName>LEADER_CHARLES</LeaderName>
+                    <bLeaderAvailability>1</bLeaderAvailability>
+                </Leader>
+			</Leaders>
+			<DerivativeCiv>CIVILIZATION_BYZANTIUM</DerivativeCiv>
+			<CivilizationSelectionSound>AS3D_GREECE_SELECT</CivilizationSelectionSound>
+			<CivilizationActionSound>AS3D_GREECE_ORDER</CivilizationActionSound>
+		</CivilizationInfo>
+
 
 	</CivilizationInfos>
 </Civ4CivilizationInfos>

@@ -911,5 +911,13 @@
 			<fBlue>0.85</fBlue>
 			<fAlpha>1.00</fAlpha>
 		</ColorVal>
+
+        <ColorVal>
+			<Type>COLOR_PLAYER_GALLANT</Type>
+			<fRed>0.0</fRed>
+			<fGreen>0.43</fGreen>
+			<fBlue>1.00</fBlue>
+			<fAlpha>1.00</fAlpha>
+		</ColorVal>
 	</ColorVals>
 </Civ4ColorVals>
