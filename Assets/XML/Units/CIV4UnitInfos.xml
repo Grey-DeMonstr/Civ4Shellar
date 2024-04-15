@@ -23721,7 +23721,7 @@
 			<StateReligion>NONE</StateReligion>
 			<PrereqReligion>NONE</PrereqReligion>
 			<PrereqCorporation>NONE</PrereqCorporation>
-			<PrereqBuilding>NONE</PrereqBuilding>
+			<PrereqBuilding>BUILDING_BROTHEL</PrereqBuilding>
 			<PrereqTech>TECH_CURRENCY</PrereqTech>
 			<TechTypes/>
 			<BonusType>NONE</BonusType>
