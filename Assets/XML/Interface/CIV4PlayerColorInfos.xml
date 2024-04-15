@@ -296,7 +296,7 @@
 		</PlayerColorInfo>
         <PlayerColorInfo>
 			<Type>PLAYERCOLOR_POMORYE</Type>
-			<ColorTypePrimary>COLOR_PLAYER_DARK_GREEN</ColorTypePrimary> <!-- CHANGE -->
+			<ColorTypePrimary>COLOR_PLAYER_POMORYE</ColorTypePrimary>
 			<ColorTypeSecondary>COLOR_PLAYER_YELLOW</ColorTypeSecondary>
 			<TextColorType>COLOR_PLAYER_DARK_GREEN_TEXT</TextColorType>
 		</PlayerColorInfo>
@@ -308,7 +308,7 @@
 		</PlayerColorInfo>
         <PlayerColorInfo>
 			<Type>PLAYERCOLOR_GALLANT</Type>
-			<ColorTypePrimary>COLOR_PLAYER_GALLANT</ColorTypePrimary> <!-- CHANGE -->
+			<ColorTypePrimary>COLOR_PLAYER_GALLANT</ColorTypePrimary>
 			<ColorTypeSecondary>COLOR_PLAYER_YELLOW</ColorTypeSecondary>
 			<TextColorType>COLOR_PLAYER_YELLOW_TEXT</TextColorType>
 		</PlayerColorInfo>
