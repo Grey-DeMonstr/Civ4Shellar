@@ -5009,41 +5009,49 @@
 
         <CivilizationInfo>
 			<Type>CIVILIZATION_POMORYE</Type>
-			<Description>Pomorye Kingdom</Description>
+			<Description>Pomorskoe Tzarstvo</Description>
 			<ShortDescription>Pomorye</ShortDescription>
-			<Adjective>Pomoryen</Adjective>
+			<Adjective>Pomorskii</Adjective>
 			<Civilopedia>TXT_KEY_CIV_GREECE_PEDIA</Civilopedia>
 			<DefaultPlayerColor>PLAYERCOLOR_POMORYE</DefaultPlayerColor>
-			<ArtDefineTag>ART_DEF_CIVILIZATION_GREECE</ArtDefineTag>
-			<ArtStyleType>ARTSTYLE_GRECO_ROMAN</ArtStyleType>
-			<UnitArtStyleType>UNIT_ARTSTYLE_GRECO_ROMAN</UnitArtStyleType>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_RUSSIA</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType>
+			<UnitArtStyleType>UNIT_ARTSTYLE_EUROPEAN</UnitArtStyleType>
 			<bPlayable>1</bPlayable>
 			<bAIPlayable>0</bAIPlayable>
 			<Cities>
-                <City>Pomorye 1</City>
-                <City>Pomorye 2</City>
-                <City>Pomorye 3</City>
-                <City>Pomorye 4</City>
-                <City>Pomorye 5</City>
-                <City>Pomorye 6</City>
-                <City>Pomorye 7</City>
-                <City>Pomorye 8</City>
-                <City>Pomorye 9</City>
-                <City>Pomorye 10</City>
-                <City>Pomorye 11</City>
-				<City>Pomorye 12</City>
-				<City>Pomorye 13</City>
-				<City>Pomorye 14</City>
-				<City>Pomorye 15</City>
-				<City>Pomorye 16</City>
-				<City>Pomorye 17</City>
-                <City>Pomorye 18</City>
-                <City>Pomorye 19</City>
-                <City>Pomorye 20</City>
+                <City>Belokamen</City>
+                <City>Vaskevichi</City>
+                <City>Bron-Knyazh</City>
+                <City>Dorogobug</City>
+                <City>Lobysnk</City>
+                <City>Torchesk</City>
+                <City>Dedoslavl</City>
+                <City>Krasn</City>
+                <City>Berezhets</City>
+                <City>Peresechen</City>
+                <City>Khorobor</City>
+				<City>Nerinsk</City>
+				<City>Vasilev</City>
+				<City>Cherven</City>
+				<City>Teshilov</City>
+				<City>Andreev</City>
+				<City>Izheslavl</City>
+                <City>Iskona</City>
+                <City>Svenkovichi</City>
+                <City>Rimov</City>
 			</Cities>
 			<Buildings>
+                <Building>
+					<BuildingClassType>BUILDINGCLASS_GRANARY</BuildingClassType>
+					<BuildingType>BUILDING_POMORYE_POSADA</BuildingType>
+				</Building>
 			</Buildings>
 			<Units>
+                <Unit>
+					<UnitClassType>UNITCLASS_CROSSBOWMAN</UnitClassType>
+					<UnitType>UNIT_POMORYE_WEREWOLF</UnitType>
+				</Unit>
 			</Units>
 			<FreeUnitClasses>
 				<FreeUnitClass>
