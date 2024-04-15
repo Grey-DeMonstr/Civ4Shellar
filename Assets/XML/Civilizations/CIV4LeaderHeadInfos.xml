@@ -12,7 +12,7 @@
             <Type>LEADER_SHELLAR</Type>
             <Description>Shellar</Description>
             <Civilopedia>TXT_KEY_LEADER_ALEXANDER_PEDIA</Civilopedia>
-            <ArtDefineTag>ART_DEF_LEADER_ALEXANDER</ArtDefineTag>
+            <ArtDefineTag>ART_DEF_LEADER_CHURCHILL</ArtDefineTag>
             <iWonderConstructRand>20</iWonderConstructRand>
             <iBaseAttitude>0</iBaseAttitude>
             <iBasePeaceWeight>0</iBasePeaceWeight>
@@ -556,7 +556,7 @@
             <Type>LEADER_KENDAR</Type>
             <Description>Kendar The Conqueror</Description>
             <Civilopedia>TXT_KEY_LEADER_ALEXANDER_PEDIA</Civilopedia>
-            <ArtDefineTag>ART_DEF_LEADER_ALEXANDER</ArtDefineTag>
+            <ArtDefineTag>ART_DEF_LEADER_NAPOLEON</ArtDefineTag>
             <iWonderConstructRand>20</iWonderConstructRand>
             <iBaseAttitude>0</iBaseAttitude>
             <iBasePeaceWeight>0</iBasePeaceWeight>
@@ -1100,7 +1100,7 @@
             <Type>LEADER_VEZER</Type>
             <Description>Vezer</Description>
             <Civilopedia>TXT_KEY_LEADER_ALEXANDER_PEDIA</Civilopedia>
-            <ArtDefineTag>ART_DEF_LEADER_ALEXANDER</ArtDefineTag>
+            <ArtDefineTag>ART_DEF_LEADER_WILLEM_VAN_ORANJE</ArtDefineTag>
             <iWonderConstructRand>20</iWonderConstructRand>
             <iBaseAttitude>0</iBaseAttitude>
             <iBasePeaceWeight>0</iBasePeaceWeight>
@@ -1644,7 +1644,7 @@
             <Type>LEADER_PURISH</Type>
             <Description>Purish</Description>
             <Civilopedia>TXT_KEY_LEADER_ALEXANDER_PEDIA</Civilopedia>
-            <ArtDefineTag>ART_DEF_LEADER_ALEXANDER</ArtDefineTag>
+            <ArtDefineTag>ART_DEF_LEADER_CHARLEMAGNE</ArtDefineTag>
             <iWonderConstructRand>20</iWonderConstructRand>
             <iBaseAttitude>0</iBaseAttitude>
             <iBasePeaceWeight>0</iBasePeaceWeight>
@@ -2188,7 +2188,7 @@
             <Type>LEADER_ORLANDO</Type>
             <Description>Orlando</Description>
             <Civilopedia>TXT_KEY_LEADER_ALEXANDER_PEDIA</Civilopedia>
-            <ArtDefineTag>ART_DEF_LEADER_ALEXANDER</ArtDefineTag>
+            <ArtDefineTag>ART_DEF_LEADER_JOAO</ArtDefineTag>
             <iWonderConstructRand>20</iWonderConstructRand>
             <iBaseAttitude>0</iBaseAttitude>
             <iBasePeaceWeight>0</iBasePeaceWeight>
@@ -2732,7 +2732,7 @@
             <Type>LEADER_ELVIS</Type>
             <Description>Elvis</Description>
             <Civilopedia>TXT_KEY_LEADER_ALEXANDER_PEDIA</Civilopedia>
-            <ArtDefineTag>ART_DEF_LEADER_ALEXANDER</ArtDefineTag>
+            <ArtDefineTag>ART_DEF_LEADER_FREDERICK</ArtDefineTag>
             <iWonderConstructRand>20</iWonderConstructRand>
             <iBaseAttitude>0</iBaseAttitude>
             <iBasePeaceWeight>0</iBasePeaceWeight>
@@ -3820,7 +3820,7 @@
             <Type>LEADER_ZINOVII</Type>
             <Description>Zinovii</Description>
             <Civilopedia>TXT_KEY_LEADER_ALEXANDER_PEDIA</Civilopedia>
-            <ArtDefineTag>ART_DEF_LEADER_ALEXANDER</ArtDefineTag>
+            <ArtDefineTag>ART_DEF_LEADER_BISMARCK</ArtDefineTag>
             <iWonderConstructRand>20</iWonderConstructRand>
             <iBaseAttitude>0</iBaseAttitude>
             <iBasePeaceWeight>0</iBasePeaceWeight>
@@ -4364,7 +4364,7 @@
             <Type>LEADER_PAFNUTII</Type>
             <Description>Pafnutii</Description>
             <Civilopedia>TXT_KEY_LEADER_ALEXANDER_PEDIA</Civilopedia>
-            <ArtDefineTag>ART_DEF_LEADER_ALEXANDER</ArtDefineTag>
+            <ArtDefineTag>ART_DEF_LEADER_PETER</ArtDefineTag>
             <iWonderConstructRand>20</iWonderConstructRand>
             <iBaseAttitude>0</iBaseAttitude>
             <iBasePeaceWeight>0</iBasePeaceWeight>
