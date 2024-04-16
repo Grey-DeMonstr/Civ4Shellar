@@ -29062,7 +29062,7 @@
 			<BuildingClass>BUILDINGCLASS_MARKET</BuildingClass>
 			<Type>BUILDING_GOLDIAN_STOCK_MARKET</Type>
 			<SpecialBuildingType>NONE</SpecialBuildingType>
-			<Description>TXT_KEY_BUILDING_MARKET</Description>
+			<Description>Stock Market</Description>
 			<Civilopedia>TXT_KEY_BUILDING_MARKET_PEDIA</Civilopedia>
 			<Strategy>TXT_KEY_BUILDING_MARKET_STRATEGY</Strategy>
 			<Advisor>ADVISOR_ECONOMY</Advisor>

@@ -24040,7 +24040,7 @@
 			<DefaultUnitAI>UNITAI_ATTACK</DefaultUnitAI>
 			<Invisible>NONE</Invisible>
 			<SeeInvisible>NONE</SeeInvisible>
-			<Description>TXT_KEY_UNIT_MUSKETMAN</Description>
+			<Description>Early Musketman</Description>
 			<Civilopedia>TXT_KEY_UNIT_MUSKETMAN_PEDIA</Civilopedia>
 			<Strategy>TXT_KEY_UNIT_MUSKETMAN_STRATEGY</Strategy>
 			<Advisor>ADVISOR_MILITARY</Advisor>
