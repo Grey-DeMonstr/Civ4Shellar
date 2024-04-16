@@ -4758,39 +4758,47 @@
 			<Type>CIVILIZATION_GOLDIANA</Type>
 			<Description>Goldiana Republic</Description>
 			<ShortDescription>Goldiana</ShortDescription>
-			<Adjective>Goldianed</Adjective>
+			<Adjective>Goldian</Adjective>
 			<Civilopedia>TXT_KEY_CIV_GREECE_PEDIA</Civilopedia>
 			<DefaultPlayerColor>PLAYERCOLOR_GOLDIANA</DefaultPlayerColor>
-			<ArtDefineTag>ART_DEF_CIVILIZATION_GREECE</ArtDefineTag>
-			<ArtStyleType>ARTSTYLE_GRECO_ROMAN</ArtStyleType>
-			<UnitArtStyleType>UNIT_ARTSTYLE_GRECO_ROMAN</UnitArtStyleType>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_MALI</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType>
+			<UnitArtStyleType>UNIT_ARTSTYLE_EUROPEAN</UnitArtStyleType>
 			<bPlayable>1</bPlayable>
 			<bAIPlayable>0</bAIPlayable>
 			<Cities>
-                <City>Goldiana 1</City>
-                <City>Goldiana 2</City>
-                <City>Goldiana 3</City>
-                <City>Goldiana 4</City>
-                <City>Goldiana 5</City>
-                <City>Goldiana 6</City>
-                <City>Goldiana 7</City>
-                <City>Goldiana 8</City>
-                <City>Goldiana 9</City>
-                <City>Goldiana 10</City>
-                <City>Goldiana 11</City>
-				<City>Goldiana 12</City>
-				<City>Goldiana 13</City>
-				<City>Goldiana 14</City>
-				<City>Goldiana 15</City>
-				<City>Goldiana 16</City>
-				<City>Goldiana 17</City>
-                <City>Goldiana 18</City>
-                <City>Goldiana 19</City>
-                <City>Goldiana 20</City>
+                <City>New Capitol</City>
+                <City>Flores</City>
+                <City>Aspero</City>
+                <City>Vincennes</City>
+                <City>Natchez</City>
+                <City>New Bern</City>
+                <City>Charlotte</City>
+                <City>Toms River</City>
+                <City>Monterey</City>
+                <City>New Haven</City>
+                <City>Concord</City>
+				<City>Dedham</City>
+				<City>Salem</City>
+				<City>Hopewell</City>
+				<City>Jamestown</City>
+				<City>Oraibi</City>
+				<City>Marigot</City>
+                <City>Kingstown</City>
+                <City>Arequipa</City>
+                <City>Portobelo</City>
 			</Cities>
 			<Buildings>
+                <Building>
+					<BuildingClassType>BUILDINGCLASS_MARKET</BuildingClassType>
+					<BuildingType>BUILDING_GOLDIAN_STOCK_MARKET</BuildingType>
+				</Building>
 			</Buildings>
 			<Units>
+                <Unit>
+					<UnitClassType>UNITCLASS_MUSKETMAN</UnitClassType>
+					<UnitType>UNIT_GOLDIAN_MUSKETMAN</UnitType>
+				</Unit>
 			</Units>
 			<FreeUnitClasses>
 				<FreeUnitClass>
