@@ -4697,9 +4697,6 @@
 				<City>Drakmar Castle</City>
 				<City>Zerdoc Castle</City>
 				<City>Grimmond Castle</City>
-                <City>Orthan 18</City>
-                <City>Orthan 19</City>
-                <City>Orthan 20</City>
 			</Cities>
 			<Buildings>
                 <Building>
@@ -4879,9 +4876,9 @@
                 <City>Mistralia 19</City>
                 <City>Mistralia 20</City>
 			</Cities>
-			<Buildings>
+			<Buildings> <!-- TODO -->
 			</Buildings>
-			<Units>
+			<Units> <!-- TODO -->
 			</Units>
 			<FreeUnitClasses>
 				<FreeUnitClass>
@@ -4928,7 +4925,7 @@
 			<Type>CIVILIZATION_LONDRA</Type>
 			<Description>Londra Empire</Description>
 			<ShortDescription>Londra</ShortDescription>
-			<Adjective>Londrinen</Adjective>
+			<Adjective>Londran</Adjective>
 			<Civilopedia>TXT_KEY_CIV_GREECE_PEDIA</Civilopedia>
 			<DefaultPlayerColor>PLAYERCOLOR_LONDRA</DefaultPlayerColor>
 			<ArtDefineTag>ART_DEF_CIVILIZATION_GREECE</ArtDefineTag>
@@ -4937,26 +4934,26 @@
 			<bPlayable>1</bPlayable>
 			<bAIPlayable>0</bAIPlayable>
 			<Cities>
-                <City>Londra 1</City>
-                <City>Londra 2</City>
-                <City>Londra 3</City>
-                <City>Londra 4</City>
-                <City>Londra 5</City>
-                <City>Londra 6</City>
-                <City>Londra 7</City>
-                <City>Londra 8</City>
-                <City>Londra 9</City>
-                <City>Londra 10</City>
-                <City>Londra 11</City>
-				<City>Londra 12</City>
-				<City>Londra 13</City>
-				<City>Londra 14</City>
-				<City>Londra 15</City>
-				<City>Londra 16</City>
-				<City>Londra 17</City>
-                <City>Londra 18</City>
-                <City>Londra 19</City>
-                <City>Londra 20</City>
+                <City>Port-Alba</City>
+                <City>Stratton</City>
+                <City>Sheep Lane</City>
+                <City>Ruxox</City>
+                <City>Kinwick</City>
+                <City>Elvedon</City>
+                <City>Old Wolverton</City>
+                <City>Burghley</City>
+                <City>Ackhampstead</City>
+                <City>Fleet Marston</City>
+                <City>Tatton</City>
+				<City>Mardale</City>
+				<City>Ekeney</City>
+				<City>Snittlegarth</City>
+				<City>Agden Side</City>
+				<City>Toxall</City>
+				<City>Phoside</City>
+                <City>Derwent</City>
+                <City>Cottons</City>
+                <City>Grimspound</City>
 			</Cities>
 			<Buildings>
                 <Building>
@@ -5118,7 +5115,7 @@
 			<UnitArtStyleType>UNIT_ARTSTYLE_GRECO_ROMAN</UnitArtStyleType>
 			<bPlayable>1</bPlayable>
 			<bAIPlayable>0</bAIPlayable>
-			<Cities>
+			<Cities> <!-- TODO -->
                 <City>Egina 1</City>
                 <City>Egina 2</City>
                 <City>Egina 3</City>
@@ -5140,9 +5137,9 @@
                 <City>Egina 19</City>
                 <City>Egina 20</City>
 			</Cities>
-			<Buildings>
+			<Buildings> <!-- TODO -->
 			</Buildings>
-			<Units>
+			<Units> <!-- TODO -->
 			</Units>
 			<FreeUnitClasses>
 				<FreeUnitClass>
@@ -5278,7 +5275,6 @@
 			<CivilizationSelectionSound>AS3D_GREECE_SELECT</CivilizationSelectionSound>
 			<CivilizationActionSound>AS3D_GREECE_ORDER</CivilizationActionSound>
 		</CivilizationInfo>
-
 
 	</CivilizationInfos>
 </Civ4CivilizationInfos>
