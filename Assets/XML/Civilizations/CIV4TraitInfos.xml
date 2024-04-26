@@ -113,8 +113,8 @@
 			<iMaxPlayerBuildingProductionModifier>0</iMaxPlayerBuildingProductionModifier>
 			<ExtraYieldThresholds/>
             <TradeYieldModifiers>
-                <iYield>75</iYield> <!-- Food from trade routes -->
-				<iYield>75</iYield> <!-- Prod from trade routes -->
+                <iYield>0</iYield> <!-- Food from trade routes -->
+				<iYield>50</iYield> <!-- Prod from trade routes -->
 				<iYield>0</iYield> <!-- Gold from trade routes -->
             </TradeYieldModifiers>
 			<CommerceChanges/>
