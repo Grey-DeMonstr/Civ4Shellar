@@ -5452,7 +5452,7 @@
             <Type>LEADER_ANDROMAKHA</Type>
             <Description>Andromakha</Description>
             <Civilopedia>TXT_KEY_LEADER_ALEXANDER_PEDIA</Civilopedia>
-            <ArtDefineTag>ART_DEF_LEADER_ALEXANDER</ArtDefineTag>
+            <ArtDefineTag>ART_DEF_LEADER_BOUDICA</ArtDefineTag>
             <iWonderConstructRand>20</iWonderConstructRand>
             <iBaseAttitude>0</iBaseAttitude>
             <iBasePeaceWeight>0</iBasePeaceWeight>
