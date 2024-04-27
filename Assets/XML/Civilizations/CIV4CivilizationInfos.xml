@@ -5115,31 +5115,39 @@
 			<UnitArtStyleType>UNIT_ARTSTYLE_GRECO_ROMAN</UnitArtStyleType>
 			<bPlayable>1</bPlayable>
 			<bAIPlayable>0</bAIPlayable>
-			<Cities> <!-- TODO -->
-                <City>Egina 1</City>
-                <City>Egina 2</City>
-                <City>Egina 3</City>
-                <City>Egina 4</City>
-                <City>Egina 5</City>
-                <City>Egina 6</City>
-                <City>Egina 7</City>
-                <City>Egina 8</City>
-                <City>Egina 9</City>
-                <City>Egina 10</City>
-                <City>Egina 11</City>
-				<City>Egina 12</City>
-				<City>Egina 13</City>
-				<City>Egina 14</City>
-				<City>Egina 15</City>
-				<City>Egina 16</City>
-				<City>Egina 17</City>
-                <City>Egina 18</City>
-                <City>Egina 19</City>
-                <City>Egina 20</City>
+			<Cities>
+                <City>Geliopolis</City>
+                <City>Hania</City>
+                <City>Halkida</City>
+                <City>Trikala</City>
+                <City>Agrinion</City>
+                <City>Serre</City>
+                <City>Xanti</City>
+                <City>Cavala</City>
+                <City>Comotini</City>
+                <City>Veria</City>
+                <City>Cozani</City>
+				<City>Salamin</City>
+				<City>Retimnon</City>
+				<City>Gran Afedron</City>
+				<City>Hios</City>
+				<City>Ano-Liosia</City>
+				<City>Aspropirgos</City>
+                <City>Mitilini</City>
+                <City>Elefsis</City>
+                <City>Kilkis</City>
 			</Cities>
-			<Buildings> <!-- TODO -->
-			</Buildings>
-			<Units> <!-- TODO -->
+            <Buildings>
+                <Building>
+					<BuildingClassType>BUILDINGCLASS_COLOSSEUM</BuildingClassType>
+					<BuildingType>BUILDING_EGINA_ARENA</BuildingType>
+				</Building>
+            </Buildings>
+			<Units>
+                <Unit>
+					<UnitClassType>UNITCLASS_SPEARMAN</UnitClassType>
+					<UnitType>UNIT_EGINA_HOPLIT</UnitType>
+				</Unit>
 			</Units>
 			<FreeUnitClasses>
 				<FreeUnitClass>
