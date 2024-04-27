@@ -32,6 +32,10 @@
 					<ProductionTraitType>TRAIT_PRODUCTIVE</ProductionTraitType>
 					<iProductionTrait>100</iProductionTrait>
 				</ProductionTrait>
+                <ProductionTrait>
+					<ProductionTraitType>TRAIT_TOURISTIC</ProductionTraitType>
+					<iProductionTrait>100</iProductionTrait>
+				</ProductionTrait>
 			</ProductionTraits>
 			<Button>Art/Interface/Buttons/Buildings/Temple.dds</Button>
 		</SpecialBuildingInfo>
