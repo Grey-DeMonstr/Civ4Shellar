@@ -927,5 +927,21 @@
 			<fBlue>0.10</fBlue>
 			<fAlpha>1.00</fAlpha>
 		</ColorVal>
+
+		<ColorVal>
+			<Type>COLOR_PLAYER_EGINA</Type>
+			<fRed>0.90</fRed>
+			<fGreen>0.90</fGreen>
+			<fBlue>0.10</fBlue>
+			<fAlpha>1.00</fAlpha>
+		</ColorVal>
+
+		<ColorVal>
+			<Type>COLOR_PLAYER_MISTRALIA</Type>
+			<fRed>0.90</fRed>
+			<fGreen>0.12</fGreen>
+			<fBlue>0.12</fBlue>
+			<fAlpha>1.00</fAlpha>
+		</ColorVal>
 	</ColorVals>
 </Civ4ColorVals>
