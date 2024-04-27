@@ -4855,30 +4855,38 @@
 			<bPlayable>1</bPlayable>
 			<bAIPlayable>0</bAIPlayable>
 			<Cities>
-                <City>Mistralia 1</City>
-                <City>Mistralia 2</City>
-                <City>Mistralia 3</City>
-                <City>Mistralia 4</City>
-                <City>Mistralia 5</City>
-                <City>Mistralia 6</City>
-                <City>Mistralia 7</City>
-                <City>Mistralia 8</City>
-                <City>Mistralia 9</City>
-                <City>Mistralia 10</City>
-                <City>Mistralia 11</City>
-				<City>Mistralia 12</City>
-				<City>Mistralia 13</City>
-				<City>Mistralia 14</City>
-				<City>Mistralia 15</City>
-				<City>Mistralia 16</City>
-				<City>Mistralia 17</City>
-                <City>Mistralia 18</City>
-                <City>Mistralia 19</City>
-                <City>Mistralia 20</City>
+                <City>Arborino</City>
+                <City>Arreho</City>
+                <City>Muerreske</City>
+                <City>Da Costa</City>
+                <City>Castell Agvilas</City>
+                <City>Castell Milagro</City>
+                <City>Olite</City>
+                <City>Arce</City>
+                <City>Loarra</City>
+                <City>Mura</City>
+                <City>Aitona</City>
+				<City>Belmonte</City>
+				<City>Senabria</City>
+				<City>Ampudia</City>
+				<City>Colomares</City>
+				<City>Consuegra</City>
+				<City>Orbaneja</City>
+                <City>Calzada</City>
+                <City>Jorquera</City>
+                <City>Librilla</City>
 			</Cities>
-			<Buildings> <!-- TODO -->
+			<Buildings>
+                <Building>
+					<BuildingClassType>BUILDINGCLASS_GROCER</BuildingClassType>
+					<BuildingType>BUILDING_MISTRALIA_COFFEE_SHOP</BuildingType>
+				</Building>
 			</Buildings>
-			<Units> <!-- TODO -->
+			<Units>
+                <Unit>
+					<UnitClassType>UNITCLASS_SWORDSMAN</UnitClassType>
+					<UnitType>UNIT_MISTRALIA_GUERILLA</UnitType>
+				</Unit>
 			</Units>
 			<FreeUnitClasses>
 				<FreeUnitClass>
