@@ -12,7 +12,7 @@
             <Type>LEADER_SHELLAR</Type>
             <Description>Shellar</Description>
             <Civilopedia>TXT_KEY_LEADER_ALEXANDER_PEDIA</Civilopedia>
-            <ArtDefineTag>ART_DEF_LEADER_CHURCHILL</ArtDefineTag>
+            <ArtDefineTag>ART_DEF_LEADER_WILLEM_VAN_ORANJE</ArtDefineTag>
             <iWonderConstructRand>20</iWonderConstructRand>
             <iBaseAttitude>0</iBaseAttitude>
             <iBasePeaceWeight>0</iBasePeaceWeight>
@@ -1100,7 +1100,7 @@
             <Type>LEADER_VEZER</Type>
             <Description>Vezer</Description>
             <Civilopedia>TXT_KEY_LEADER_ALEXANDER_PEDIA</Civilopedia>
-            <ArtDefineTag>ART_DEF_LEADER_WILLEM_VAN_ORANJE</ArtDefineTag>
+            <ArtDefineTag>ART_DEF_LEADER_CHURCHILL</ArtDefineTag>
             <iWonderConstructRand>20</iWonderConstructRand>
             <iBaseAttitude>0</iBaseAttitude>
             <iBasePeaceWeight>0</iBasePeaceWeight>
